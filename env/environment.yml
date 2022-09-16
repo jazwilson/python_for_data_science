@@ -1,0 +1,16 @@
+name: pyds_workbook
+channels:
+        - conda-forge
+        - bioconda
+dependencies:
+        - matplotlib
+        - pandas
+        - ipykernel 
+        - jupyterlab
+        - numpy
+        - scipy
+        - python=3.9
+        - seaborn
+
+#conda install -c conda-forge ipympl ## for jupyter
+
