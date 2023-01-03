@@ -5,6 +5,8 @@ channels:
 dependencies:
         - matplotlib
         - pandas
+        - jupyterlab_widgets
+        - ipywidgets
         - ipykernel 
         - jupyterlab
         - numpy
