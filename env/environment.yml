@@ -13,7 +13,7 @@ dependencies:
         - scipy
         - python=3.9
         - seaborn
-        - pandas-datareader
+        - yfinance 
 
 #conda install -c conda-forge ipympl ## for jupyter
 

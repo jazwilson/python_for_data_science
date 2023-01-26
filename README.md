@@ -6,7 +6,7 @@ Notbeook
 
 ## Environment
 
-Download environment file [here](https://github.com/jazwilson/python_for_data_science/tree/main/env)
+Download environment file [here](https://github.com/jazwilson/python_for_data_science/blob/main/notebooks/2_intro_to_numpy.ipynb)
 
 Update environment:
 
@@ -20,7 +20,7 @@ $ code .
 
 ## Overview
 
-### **[02: Introduction to NumPy](https://github.com/jazwilson/python_for_data_science/blob/main/2_intro_to_numpy.ipynb)**
+### **[02: Introduction to NumPy](https://github.com/jazwilson/python_for_data_science/blob/main/notebooks/3_data_manipulation_with_pandas.ipynb)**
 
 - Intro to data types in python
 - NumPy Array overview
