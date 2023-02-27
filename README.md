@@ -50,3 +50,6 @@ $ code .
 - Working with time series
 - High performance Pandas: eval() and query()
 
+### **[04: Machine Learning](https://github.com/jazwilson/machine_learning_workbooks)**
+
+- See Machine Learning Workbook repo
